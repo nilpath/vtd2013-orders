@@ -1,0 +1,13 @@
+{
+  "name": "orders",
+  "version": "0.0.1",
+  "main": "script/orders.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+  	"jquery": "~1.9.1"
+  }
+}
